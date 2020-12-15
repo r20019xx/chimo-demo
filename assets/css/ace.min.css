@@ -8914,7 +8914,8 @@ td .lbl:only-child {
 
 .tooltip.in {
     opacity: 1;
-    filter : alpha(opacity=100)
+    filter : alpha(opacity=100);
+    width: 120px;
 }
 
 .tooltip-inner {
