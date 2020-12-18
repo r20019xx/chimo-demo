@@ -1385,6 +1385,10 @@ blockquote.pull-right {
     padding-bottom: 10px
 }
 
+.navbar .navbar-h1 {
+    margin: 10px 0 0 10px;
+}
+
 .navbar .navbar-brand:hover,
 .navbar .navbar-brand:focus {
     color: #fff
